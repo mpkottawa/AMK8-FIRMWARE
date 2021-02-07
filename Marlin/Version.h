@@ -41,7 +41,7 @@
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "2021-02-06 10:28pm"
+#define STRING_DISTRIBUTION_DATE "2021-02-06 11:00pm"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
