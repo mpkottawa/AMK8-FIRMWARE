@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "2.0.420.6.25.21 LA fan"
+#define SHORT_BUILD_VERSION "2.0.420.7.13.21 LA fan"
 
 /**
  * Verbose version identifier which should contain a reference to the location
