@@ -85,7 +85,7 @@
  */
 
 // Show the Marlin bootscreen on startup. ** ENABLE FOR PRODUCTION **
-#define SHOW_BOOTSCREEN
+#define SHOW_BOOTSCREEN //mk on
 
 // Show the bitmap in Marlin/_Bootscreen.h on startup.
 #define SHOW_CUSTOM_BOOTSCREEN
@@ -1129,9 +1129,9 @@
 #define X_MIN_POS -13
 #define Y_MIN_POS -14
 #define Z_MIN_POS 0
-#define X_MAX_POS 275
-#define Y_MAX_POS 234
-#define Z_MAX_POS 270
+#define X_MAX_POS 270
+#define Y_MAX_POS 210
+#define Z_MAX_POS 265
 
 /**
  * Software Endstops
