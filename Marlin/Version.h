@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "2.420.07.16.25 LA"
+#define SHORT_BUILD_VERSION "2.420.07.17.25 LA"
 
 /**
  * Verbose version identifier which should contain a reference to the location
@@ -41,12 +41,12 @@
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "2025-07-16 04:20pm"
+#define STRING_DISTRIBUTION_DATE "2025-07-17 04:20pm"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
  */
-#define MACHINE_NAME "AMK8 LA '25"
+#define MACHINE_NAME "AMK8 LA '2025"
 
 /**
  * The SOURCE_CODE_URL is the location where users will find the Marlin Source
