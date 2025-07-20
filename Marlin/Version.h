@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "07.20.25 LA"
+#define SHORT_BUILD_VERSION "amk8 07.20.25.01"
 
 /**
  * Verbose version identifier which should contain a reference to the location
@@ -41,7 +41,7 @@
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "2025-07-20 01:14pm"
+#define STRING_DISTRIBUTION_DATE "07-20-25 02:14pm"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
@@ -54,7 +54,7 @@
  * has a distinct Github fork— the Source Code URL should just be the main
  * Marlin repository.
  */
-#define SOURCE_CODE_URL "https://github.com/mpkottawa/AMK8-FIRMWARE"
+//#define SOURCE_CODE_URL "https://github.com/mpkottawa/AMK8-FIRMWARE"
 
 /**
  * Default generic printer UUID.
