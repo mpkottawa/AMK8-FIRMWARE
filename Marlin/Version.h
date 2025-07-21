@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "amk8 07.20.25.03"
+#define SHORT_BUILD_VERSION "amk8 07.20.25.05"
 
 /**
  * Verbose version identifier which should contain a reference to the location
@@ -41,7 +41,7 @@
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "07-20-25 04:50pm"
+#define STRING_DISTRIBUTION_DATE "07-21-25 010:54am"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
